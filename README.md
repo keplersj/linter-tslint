@@ -1,3 +1,13 @@
+# Archived Repository
+
+This repository was a fork of linter-tslint that incorporated changes needed for running the TSLint Language Server on Atom. If you have a Language Server Provider you would like to run as an Atom Linter package, this fork might make for a good reference.
+
+[Relevant Pull Request](https://github.com/AtomLinter/linter-tslint/pull/197)
+
+[Archived Repository Notice](https://github.com/AtomLinter/linter-tslint/pull/197#issuecomment-579535616)
+
+---
+
 [![Travis](https://img.shields.io/travis/AtomLinter/linter-tslint.svg?style=flat-square)](https://travis-ci.org/AtomLinter/linter-tslint)
 [![Version](https://img.shields.io/apm/v/linter-tslint.svg?style=flat-square)](https://atom.io/packages/linter-tslint)
 [![Downloads](https://img.shields.io/apm/dm/linter-tslint.svg?style=flat-square)](https://atom.io/packages/linter-tslint)
